@@ -1,16 +1,19 @@
-# Trade Stars
+## Description
 
-## Project setup
-```
-npm i
+Technical Interview Project for Trade Stars
+
+## Demo
+
+[Live Demo]()
+
+## Installation
+
+```bash
+$ npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run dev
-```
+## Running the app
 
-### Compiles and minifies for production
-```
-npm run build
+```bash
+$ npm run serve
 ```
